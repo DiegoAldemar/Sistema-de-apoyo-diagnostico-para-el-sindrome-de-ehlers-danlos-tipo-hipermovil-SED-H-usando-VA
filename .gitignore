@@ -3,3 +3,6 @@
 *.caffemodel
 *.dat
 *.h5
+*.jpg
+*.png
+
