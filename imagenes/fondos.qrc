@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="fondo">
+    <file>Sistema de Apoyo Diagnostico Sindrome de Ehlers Danlos - Hipermovil SED-H.png</file>
+  </qresource>
+  <qresource prefix="botones">
+    <file>boton.png</file>
+  </qresource>
+</RCC>
